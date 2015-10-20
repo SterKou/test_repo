@@ -10,6 +10,7 @@ my $TM_UP     = 62;
 
 my $rev = 0;
 
+# read file
 while(<>) { 
 
    chomp;
